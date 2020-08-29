@@ -40,8 +40,10 @@ cd shaders
 ./compile.sh
 ```
 
-Afer this you should be able to run the project in an IDE or directly from the build directory.
-Now you should be ready to write your application!
+Afer this you should be able to run the project in an IDE or directly from the build directory
+and you should be greeted with a window like the one below. Now you should be ready to write your application!
+
+![Image Success](https://i.imgur.com/Nor3VDg.png)
 
 # Resources
 A lot of the work for this repository is based on the great [vulkan-tutorial](https://vulkan-tutorial.com)
