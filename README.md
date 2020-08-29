@@ -1,12 +1,13 @@
 # Vulkan Sandbox
 Welcome to the Vulkan Sandbox! If you are looking to develop a Vulkan application
-together with a highly customizable user interface and do not want to write
+together with a highly customizable user interface (Dear Imgui) and do not want to write
 thousands of lines of boilerplate code, this project might be for you. Or if you
-just want to learn more
+just want to marvel at how many lines of code it takes to draw a triangle you
+can just peruse the code.
 
 This repository is designed to be cloned and ready for use on all Linux, Windows, and
 Mac. The project makes minimal assumptions about code structure and places all the necessary
-code into just four header and source files, so that it is easy to get going writing code.
+code into just four header and source files, so that it is easy to get started right away.
 No abstraction layers have been written for the creation of Vulkan objects, but it
 should definitely be possible to quickly refactor components.
 
