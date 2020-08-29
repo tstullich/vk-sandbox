@@ -11,7 +11,7 @@ public:
         std::ifstream file(filePath, std::ios::ate | std::ios::binary);
 
         if (!file.is_open()) {
-            std::cout << "Unable to open file: " << filePath << std::endl;
+            std::cout << "Unable to open SPIR-V file: " << filePath << std::endl;
             std::cout << "Did you run compile.sh yet?" << std::endl;
             exit(EXIT_FAILURE);
         }
