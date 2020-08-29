@@ -1,0 +1,6 @@
+*.ini
+*.spv
+.idea/
+cmake-build-debug/
+build/
+.vscode/
