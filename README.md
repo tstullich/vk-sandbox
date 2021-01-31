@@ -51,3 +51,7 @@ so if you want to learn more about Vulkan you should definitely check that out.
 [Dear Imgui](https://github.com/ocornut/imgui) also has some documentation, although I find it
 to be scattered and good information is hard to find. But do read through it to get started on writing
 your own
+
+# Contributing
+If you find any issues with this code, please feel free to send a pull request or file an issue with a brief error report
+and I'll try to respond to your request as soon as possible.
